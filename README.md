@@ -2,6 +2,11 @@
 
 ## OCR Selection to Clipboard
 
+## Installation:
+```bash
+brew install tesseract
+```
+
 https://user-images.githubusercontent.com/13146030/120063225-bb028a80-c098-11eb-8e48-711dbbd32cc1.mp4
 
 ### Function
