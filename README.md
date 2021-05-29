@@ -2,6 +2,8 @@
 
 ## OCR Selection to Clipboard
 
+https://user-images.githubusercontent.com/13146030/120063225-bb028a80-c098-11eb-8e48-711dbbd32cc1.mp4
+
 ### Function
 Activates a screen selection and copies the OCR result to clipboard.
 
